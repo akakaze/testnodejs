@@ -2,6 +2,6 @@
   "name": "application-name",
   "version": "0.0.1",
   "scripts": {
-    "start": "test.js"
+    "start": "node test.js"
   }
 }
